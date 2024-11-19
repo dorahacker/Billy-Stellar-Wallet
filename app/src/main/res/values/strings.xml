@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Billy Stellar Wallet</string>
+
+
+    <!-- Wallet Create -->
+    <string name="action_wallet">Wallet</string>
+    <string name="label_no_wallet_found">No wallet found.</string>
+    <string name="label_create_new_wallet">Create or Import your wallet</string>
+    <string name="action_import_wallet">No</string>
+    <string name="action_cancel_create_new_wallet">No</string>
+    <string name="action_create_new_wallet">Create</string>
+
+    <!-- Recover Account -->
+    <string name="recover_account_title">Recover Account</string>
+    <string name="recover_account_description">Enter the secret key of your wallet.</string>
+    <string name="action_import">Import</string>
+    <string name="hint_secret_key">Wallet Secret Key</string>
+
+    <!-- Wallet Dashboard -->
+    <string name="title_wallet_dashboard">Wallet</string>
+    <string name="label_wallet_assets">Assets</string>
+    <string name="label_wallet_balance">Your Balance</string>
+
+    <!-- Wallet Send -->
+    <string name="hint_recipient_address">Recipient address</string>
+    <string name="hint_amount">Amount</string>
+    <string name="helper_text_amount">≈ $0.00</string>
+    <string name="description_scan_qr_code">Scan QR Code</string>\
+
+
+</resources>
