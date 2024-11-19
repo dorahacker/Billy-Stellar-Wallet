@@ -43,3 +43,16 @@ Inspiration and support from the Stellar and Kotlin developer communities.
 
 ### License
 This project is licensed under the MIT License.
+
+## Demo Screenshots
+
+<div style="display: flex; justify-content: space-around;">
+    <div>
+        <h3>Wallet Home</h3>
+        <img src="demos/wallet_home.jpeg" alt="Wallet Home" style="width: 300px; margin: 10px;"/>
+    </div>
+    <div>
+        <h3>Wallet Success</h3>
+        <img src="demos/wallet_transaction_successful.jpeg" alt="Wallet Success" style="width: 300px; margin: 10px;"/>
+    </div>
+</div>
